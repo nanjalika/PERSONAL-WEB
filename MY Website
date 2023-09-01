@@ -1,0 +1,31 @@
+<! DOCTYPE html>
+<html lang=“en”>
+<head>
+        <title>CHANIELI</title>
+        <link rel=“stylesheet”           
+         href=“style.css>
+</head>
+<body>
+       <div>
+           <img src=“#” height=“#”     
+             weight=“#”>
+           <nav>
+                <a href=“#”>HOME</a>
+                <a href=“#”>SERVICES</a>
+                <a href=“#”>ABOUT</a>
+                <a href=“#”>CONTACTS</a>
+           </nav>
+       </div>
+       <div>
+            <h1> Hi There! I’m AN ARTIST!</h1>
+                 <br>
+            <p>This website is the main site that connects all other platforms by giving out overview and experience of all services that we can provide to you.
+                <br>
+Feel free to ask any question by contacting us at <br> anytime so we give you responses asap!</p>
+                  <img src=“#” height=“#”     
+                     weight=“#”>
+            <h2><strong>See What’s new!</
+                        strong></h2>
+       </div>
+ </body>
+</html>
